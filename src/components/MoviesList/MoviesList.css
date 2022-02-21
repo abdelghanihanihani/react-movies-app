@@ -6,13 +6,13 @@
 }
 
 .wrapper{
-    padding: 40px 0px;
+    padding: 40px 0;
 }
 .type{
     font-size: 25px;
     font-weight: 400;
     color: white;
-    padding: 20px;
+    padding: 20px 0;
 }
 .error{
     font-size: 25px;
