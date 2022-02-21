@@ -1,0 +1,20 @@
+.header{
+    height: 70px;
+
+    padding: 0px 40px;
+    background-color:#1a242f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logo{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+.profile-img,
+.profile-img img{
+    height: 40px;
+    width: 40px;
+}

@@ -1,0 +1,21 @@
+.list{
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+
+}
+
+.wrapper{
+    padding: 40px 0px;
+}
+.type{
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    padding: 20px;
+}
+.error{
+    font-size: 25px;
+    font-weight: 400;
+    color: red;
+}

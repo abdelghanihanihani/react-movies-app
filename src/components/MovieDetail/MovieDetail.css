@@ -1,0 +1,44 @@
+.section-details {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+}
+
+.details-title {
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.details-rating {
+    padding: 20px 0px;
+    display: flex;
+}
+
+.details-rating span {
+    margin-right: 30px;
+}
+
+.details-plot {
+    padding: 20px 0px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.8rem;
+
+}
+
+.details-info > div span:first-child{
+    padding: 10px 0px;
+    color: #ffffff;
+    font-weight: 600;
+    width: 100px;
+    display: inline-block;
+}
+.details-info > div span{
+    color: #79B8F3;
+}
+.icon {
+    color: #eaa800;
+}
+
