@@ -10,6 +10,7 @@ A **Movie App** built with **React.js** that allows users to browse, search, and
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Running the App](#running-the-app)
+- [Online Demo](#online-demo)
 - [License](#license)
 
 ---
@@ -72,6 +73,15 @@ npm start
 The app will run on `http://localhost:3000/`.
 
 ---
+
+
+## Online Demo
+
+You can try the online demo of this React.js 17 App [here](https://abdelghanihanihani.github.io/react-movies-app/).
+
+
+---
+
 
 ## License
 
